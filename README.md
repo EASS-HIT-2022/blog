@@ -10,4 +10,7 @@ docker compose up
 Open http://localhost:3000 to view the client in browser.
 Open http://localhost:5001 to view the server in browser.
 
+youtube link :
+https://www.youtube.com/watch?v=J0yKlZq9zKs
+
 
